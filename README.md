@@ -5,5 +5,6 @@ Uso de técnicas estatísticas em linguagem de programação R para avaliar o po
 Análise realizada no ambiente R.
 
 Dados fonte: produtos.csv
+
 Notebook (contendo gráficos e apresentação dos resultados): avaliacao-herbicidas.md
 
